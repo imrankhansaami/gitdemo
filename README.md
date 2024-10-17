@@ -1,4 +1,4 @@
 # gitdemo
 This is from apna college git demo
 <br>
-Author - Imran Khan
+Author - Imran (Khan International)
